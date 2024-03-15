@@ -1,0 +1,4 @@
+name: SoupBattle
+version: '${project.version}'
+main: vendek.soupbattle.SoupBattle
+api-version: '1.20'
